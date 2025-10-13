@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+bin/
+target/
+
+# Eclipse specific files
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Keep source code
+!src/
